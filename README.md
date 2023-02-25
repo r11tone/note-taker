@@ -33,3 +33,12 @@ MIT License
 ## Screenshots and Repo
 
 https://github.com/r11tone/note-taker
+
+Deployed app: https://ucf-notetaker.herokuapp.com/
+
+![Screen Shot 2023-02-25 at 12 30 53 PM](https://user-images.githubusercontent.com/117124864/221371144-acd95a65-506e-439c-8874-e1866658368d.png)
+
+
+![Screen Shot 2023-02-25 at 12 31 47 PM](https://user-images.githubusercontent.com/117124864/221371155-96953005-eaf5-418c-91e9-d7e5996bb4dd.png)
+
+
